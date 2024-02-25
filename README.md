@@ -1,4 +1,4 @@
-# DARKER-007-TheBond.py
+# 007-TheBond.py
 OSINT (Open source intelligence)- gathering information and analyzing intelligence based on open sources
 
 Options: 
